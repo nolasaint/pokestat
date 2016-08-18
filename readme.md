@@ -1,6 +1,10 @@
-PokeStat
+#PokeStat
+*Version 0.0.0 (pre-alpha)*
 
-version 0.0.0 (pre-alpha)
---
-Provides various functions to analyse pokemon statistics, including team strengths/weaknesses.
+## About
+PokeStat is a tool for calculating various statistics about your Pokemon team!
 
+## History
+*All dates UTC*
+
+* 2016-18-8 PokeStat created
